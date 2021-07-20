@@ -14,7 +14,7 @@
   "dependencies": {
     "@types/socket.io-client": "^1.4.33",
     "react": "16.11.0",
-    "react-native": "0.62.2",
+    "react-native": "0.62.3",
     "socket.io-client": "^2.3.0"
   },
   "devDependencies": {
